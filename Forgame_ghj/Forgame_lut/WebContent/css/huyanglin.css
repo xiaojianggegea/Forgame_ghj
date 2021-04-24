@@ -1,0 +1,261 @@
+#kong {
+	height: 10px;
+}
+
+#zuitop ul li {
+	display: inline-block;
+	width: 70px;
+	height: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	margin-top: 10px;
+}
+
+#zuitop ul li a:hover {
+	color: cornflowerblue;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	font: "微软雅黑";
+	font-weight: bold;
+	color: white;
+}
+
+#hexin {
+	width: 1152px;
+	/*height: 1000px;*/
+	background: white;
+	height: 100%;
+	margin-left: 180px;
+	margin-bottom: 30px;
+	background-repeat: no-repeat;
+	line-height: 20px;
+}
+
+#among {
+	height: 400px;
+	width: 1000px;
+	margin-left: 76px;
+	background: black;
+}
+
+#one {
+	height: 100px;
+	background: white;
+	background-image: url(../images/ge3.png);
+	background-size: 100% 100%;
+}
+
+#biankuang {
+	height: 300px;
+	width: 400px;
+	background: #A9A9A9;
+	float: left;
+}
+
+#shangzuo {
+	height: 290px;
+	width: 390px;
+	background: brown;
+	background-image: url(../images/huyanglin.jpg);
+	margin-left: 5px;
+	margin-top: 5px;
+	background-size: 100% 100%;
+}
+
+#shangyou {
+	height: 300px;
+	width: 600px;
+	background: antiquewhite;
+	float: left;
+	text-align: left;
+	font-size: 18px;
+}
+#shangyou lu h2{
+	margin-top: 20px;
+}
+#shangyou lu p{
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#shangyou div {
+	margin-left: 20px;
+}
+
+#shangyou div h2 {
+	color: #CD853F;
+	font: 黑体;
+}
+#tab {
+	height: 600px;
+	width: 1000px;
+	margin-left: 76px;
+	background: black;
+}
+
+#tab1 {
+	height: 120px;
+	background: white;
+	background-image: url(../images/ge4.png);
+	background-size: 100% 100%;
+}
+
+#two0 {
+	height: 240px;
+	width: 500px;
+	background: white;
+	background-image: url(../images/001.jpg);
+	margin-left: 0px;
+	background-size: 100% 100%;
+	float: left;
+}
+
+#two1 {
+	height: 240px;
+	width: 500px;
+	background: white;
+	background-image: url(../images/001.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+
+#two2 {
+	height: 240px;
+	width: 500px;
+	background: white;
+	background-image: url(../images/001.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+
+#two3 {
+	height: 240px;
+	width: 500px;
+	background: white;
+	background-image: url(../images/001.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+
+#two01{
+	width: 100px;
+	height: 60px;
+	background: #1C1F21;
+	margin-left: 50px;
+	margin-top: 60px;
+	background-image: url(../images/hyl.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+#two02 p{
+	margin-top: 2px;
+	margin-right: 30px;
+}
+#two02{
+	width: 290px;
+	height: 60px;
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;
+}
+#two03{
+	width: 380px;
+	height: 60px;
+	margin-top: 0px;
+	margin-left: 60px;
+	float: left;
+	clear: both;
+}
+#two11{
+	width: 100px;
+	height: 60px;
+	background: #1C1F21;
+	margin-left: 50px;
+	margin-top: 60px;
+	background-image: url(../images/hyl1.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+#two12{
+	width: 290px;
+	height: 60px;
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;
+}
+#two12 p{
+	margin-top: 8px;
+	margin-right: 30px;
+}
+#two13{
+	width: 380px;
+	height: 60px;
+	margin-top: 0px;
+	margin-left: 60px;
+	float: left;
+	clear: both;
+}
+#two21{
+	width: 100px;
+	height: 60px;
+	background: #1C1F21;
+	margin-left: 50px;
+	margin-top: 55px;
+	background-image: url(../images/huyan.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+#two22{
+	width: 290px;
+	height: 60px;
+	margin-top: 40px;
+	margin-left: 16px;
+	margin-right: 10px;
+	float: left;
+}
+#two22 p{
+	margin-top: 8px;
+	margin-right: 30px;
+}
+#two23{
+	width: 380px;
+	height: 60px;
+	margin-top: 0px;
+	margin-left: 60px;
+	float: left;
+	clear: both;
+}
+#two31{
+	width: 100px;
+	height: 60px;
+	background: #1C1F21;
+	margin-left: 50px;
+	margin-top: 55px;
+	background-image: url(../images/hyl3.jpg);
+	background-size: 100% 100%;
+	float: left;
+}
+#two32 p{
+	margin-top: 20px;
+	margin-right: 30px;
+}
+#two32{
+	width: 290px;
+	height: 60px;
+	margin-top: 40px;
+	margin-left: 20px;
+	float: left;
+}
+#two33{
+	width: 380px;
+	height: 60px;
+	margin-top: 0px;
+	margin-left: 60px;
+	float: left;
+	clear: both;
+}
+
