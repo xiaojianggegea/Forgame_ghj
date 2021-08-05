@@ -1,0 +1,42 @@
+#section-box{
+	height: 480px;
+	background: url(../images/banner.png) no-repeat;
+	background-size: 100% 100%;
+	#box-center{
+		width: 1152px;
+		margin: 0 auto;
+		padding-top: 20px;
+		#title{
+			span{
+				font-size: 24px;
+				border-left: #20BD9A solid 5px;
+				padding-left: 30px;
+			}
+		}
+	}
+	#touxian-big-box{
+		margin-top: 30px;
+		width: 1152px;
+		height: 130px;
+		#touxian-box1,#touxian-box2{
+			img{
+				float: left;
+				margin-top: 10px;
+				margin-left: 80px;
+				margin-right: 80px;
+				width: 100px;
+				height: 100px;
+				border-radius: 25px;
+			}	
+		}
+		#ulbox1,#ulbox2{
+			float: left;
+			margin-top: 10px;
+		}
+		#touxian-box2{
+			margin-left: 100px;
+		}
+	}
+	
+	
+}
